@@ -1,4 +1,6 @@
-﻿int [] nums = new int [12];
+﻿//ПРОГРАММА, ПОЗВОЛЯЮЩАЯ ОПРЕДЕЛИТЬ КОЛИЧЕСТВО ЧЕТНЫХ ЧИСЕЛ В МАССИВЕ
+
+int [] nums = new int [12];
 Random numRnd = new Random ();
 for (int i = 0; i < nums.Length; i++)
 {
